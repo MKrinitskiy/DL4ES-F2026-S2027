@@ -24,9 +24,9 @@ Deep Learning for Earth Sciences F2026-S2027 by [Mikhail Krinitskiy](https://sai
 | Лекция 6 | 20.10.2026 | --- |  |
 | Лекция 7 | 27.10.2026 | --- | |
 | Лекция 8 | 03.11.2026 |  | [видеозапись](https://ml4es.ru/links/2026-11-03-DL4ES2026-Lect07) |
-|  | 10.11.2026 |  | [материалы]() |
+| Занятие 9 | 10.11.2026 |  | [материалы]() |
 | ДЗ №1 | 16.11.2026<br />Дедлайн - 30.10.2026 | Реализация автоматического вычисления градиентов искусственных нейронных сетей | [Описание](https://github.com/MKrinitskiy/DL4ES-F2026-S2027/blob/main/HW01/HW01.ipynb)<br />[Таблица достижений](https://github.com/MKrinitskiy/DL4ES-F2026-S2027/blob/main/HW01/leaderboard.md) |
-| Лекция  9 | 17.11.2026 | Flipped class: Мониторинг обучения нейросетей с помощью Tensorboard | [материалы 2025г. для подготовки - ч.1](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect06)<br />[видеозапись - ч.1](https://ml4es.ru/links/2025-10-21-DL4ES2025-Lect06)<br />[материалы 2025 г. для подготовки - ч.2](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect07)<br />[видеозапись - ч.2](https://ml4es.ru/links/2025-11-11-DL4ES2025-Lect07)<br />[материалы 2025 г. для подготовки - ч.3](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect08)<br />[видеозапись - ч.3](https://ml4es.ru/links/2025-11-18-DL4ES2025-Lect08) |
+| Лекция  10 | 17.11.2026 | Flipped class: Мониторинг обучения нейросетей с помощью Tensorboard | [материалы 2025г. для подготовки - ч.1](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect06)<br />[видеозапись - ч.1](https://ml4es.ru/links/2025-10-21-DL4ES2025-Lect06)<br />[материалы 2025 г. для подготовки - ч.2](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect07)<br />[видеозапись - ч.2](https://ml4es.ru/links/2025-11-11-DL4ES2025-Lect07)<br />[материалы 2025 г. для подготовки - ч.3](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect08)<br />[видеозапись - ч.3](https://ml4es.ru/links/2025-11-18-DL4ES2025-Lect08) |
 
 
 ### Рекомендуемая литература
